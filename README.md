@@ -154,4 +154,4 @@ https://ml-project-20-multiple-disease-prediction-system-rzzsjoxpjyj32.streamlit
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
 # Contact
-If you have any questions or suggestions, feel free to contact me at prachetpandav283@gmail.com
+If you have any questions or suggestions, feel free to contact me at arvindhadiyal8162@gmail.com
