@@ -148,7 +148,7 @@ This Multiple Disease Prediction System WebApp provides an easy-to-use interface
 # Deployment
 The web app is hosted on Streamlit Cloud. You can access it using the following link:
 
-https://ml-project-20-multiple-disease-prediction-system-rzzsjoxpjyj32.streamlit.app/
+https://codealpha-disease-predictor.streamlit.app/
 
 # Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
